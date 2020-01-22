@@ -1,11 +1,11 @@
 # Site settings
 author: Rashawn Wilkinson
-title: 
+title: Artificial Zen Intelligence
 header-img: img/home-bg.png
 email: info@blkzen.com
 copyright_name: Rashawn Wilkinson
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My binary journey through Data Science
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  blkzen
